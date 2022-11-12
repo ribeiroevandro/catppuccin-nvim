@@ -32,6 +32,8 @@ local color_palette = {
 	base = "#1E1E2E",
 	mantle = "#181825",
 	crust = "#11111B",
+
+	highlighter = "#00AFFF"
 }
 
 return color_palette
